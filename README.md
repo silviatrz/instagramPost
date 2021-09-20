@@ -1,26 +1,17 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# ![4 Geeks Logo](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Instagram Post
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
+## English
+Instagram post exercise for 4Geeks Academy Full-Stack Developer Bootcamp.
+Created with:
+ - HTML5
+ - CSS
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
+Instructions [here](https://github.com/breatheco-de/exercise-instagram-post/blob/master/README.md)
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
+## Español
+Ejercicio de post de Instagram para el Bootcamp Full-Stack Developer de 4Geeks Academy.
+Hecho con:
+ - HTML5
+ - CSS
 
-## What to do next?
-
-Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
-
-```sh
-$ pip3 install flask && python3 server.py
-```
-
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
-
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+Instrucciones [aquí](https://github.com/breatheco-de/exercise-instagram-post/blob/master/README.es.md)
